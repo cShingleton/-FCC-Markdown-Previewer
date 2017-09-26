@@ -13,10 +13,10 @@ Node and npm
 
 ### Installing
 
-Cd into the desired directory. Run
+Cd into the desired directory to store project. Run
 
 ```
-git clone 
+git clone https://github.com/melliflorGunk/-FCC-Markdown-Previewer.git
 ```
 
 Cd into the newly created directory and then run
